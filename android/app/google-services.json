@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559292895447",
+    "firebase_url": "https://wikileaksnews-d45b2.firebaseio.com",
+    "project_id": "wikileaksnews-d45b2",
+    "storage_bucket": "wikileaksnews-d45b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559292895447:android:185116c9117ebd25",
+        "android_client_info": {
+          "package_name": "msg.wikileaksnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559292895447-pif5qaq6p0gs36700g51libpu90jrv61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDb9XWm15L6Krby8qeTAY9trn-1KpFLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559292895447-pif5qaq6p0gs36700g51libpu90jrv61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
